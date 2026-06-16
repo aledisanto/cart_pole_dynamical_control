@@ -20,6 +20,6 @@ Il percorso didattico affronta l'evoluzione delle strategie di controllo su sist
 * **Video d'animazione (`.mp4`):** Simulazioni visive delle risposte dinamiche del sistema ed esecuzione dei test di validazione degli agenti addestrati.
 
 ---
-*Studente: Alessandro Di Santo* 
-*Professoressa: Erica Salvato* 
+*Studente: Alessandro Di Santo*  
+*Professoressa: Erica Salvato*  
 *Corso di Laurea Magistrale in Computer Engineering (Robotics & AI) — Università degli Studi di Trieste*
