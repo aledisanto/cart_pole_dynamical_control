@@ -1,4 +1,4 @@
-# Cart-Pole Control & Trajectory Optimization (Hands-On 1-5)
+# Cart-Pole Control & Trajectory Optimization (Hands-On)
 
 Questo repository raccoglie i moduli pratici (Hands-On) e gli script di simulazione sviluppati per il corso di **Learning-Based Control** presso l'**Università degli Studi di Trieste**. 
 
